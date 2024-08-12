@@ -24,16 +24,17 @@ All the functionality you need for a some what usable file manager!
 
 **KeyBindings**
 
-- x or crtl+c to Exit
-- b to go back to previous directory
-- Enter to go into a directory or into a file
-- u to rename a file
-- c to copy a file
-- v to paste a file
-- n to cut a file
-- m to delete a file
-- y to create a new file
+- x | or crtl+c to Exit
+- b | to go back to previous directory
+- u | to rename a file
+- c | to copy a file
+- v | to paste a file
+- n | to cut a file
+- m | to delete a file
+- y | to create a new file
+- Enter | to go into a directory or into a file
 
+  
 Some other important information if you either delete, paste or cut a file you will have to go back a directory then go back into the directory you either added or removed a file from to show the updated changes!
 
 
