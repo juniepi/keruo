@@ -5,7 +5,7 @@
 ██║░╚██╗███████╗██║░░██║╚██████╔╝╚█████╔╝
 ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░╚═════╝░░╚════╝░
 
-**A Terminal filing manager made with just bash!**
+**A Terminal filing manager made with just "bash"!**
 
 Meet keruo a fully useable file manager in the terminal with the exception of only being able to use it in your home directory! I love projects like [ranger](https://github.com/ranger/ranger) which is a vim inspired terminal file manager, and i wanted to take a shot of making my less than optimal version of it! 
 
