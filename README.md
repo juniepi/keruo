@@ -20,6 +20,11 @@ Meet keruo a fully useable file manager in the terminal with the exception of on
 
 All the functionality you need for a some what usable file manager!
 
+## ⚠️ IMPORTANT
+
+- When you try to enter a empty directory the choices come up together so if you want to say no to both you have to press (p) twice ! 
+- When making a new file pressing enter will bring you back to your previous directory, you will have to go into the created files directory again to edit/view your previously created file
+
 
 
 **KeyBindings**
