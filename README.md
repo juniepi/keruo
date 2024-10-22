@@ -25,8 +25,11 @@ All the functionality you need for a some what usable file manager!
 - When you try to enter a empty directory the choices come up together so if you want to say no to both you have to press (p) twice ! 
 - When making a new file pressing enter will bring you back to your previous directory, you will have to go into the created files directory again to edit/view your previously created file
 
+**🚨 Issues**
 
+- Cut just doesnt work... like at all, it deletes the file but can't paste....
 
+---------------------------------------------------------------------------------------
 **KeyBindings**
 
 - b | to go back to previous directory
